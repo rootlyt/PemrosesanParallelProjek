@@ -1,6 +1,6 @@
 # PemrosesanParallelProjek
 Berisi tugas projek mata kuliah pemrosesan parallel
-Operasi Matriks 5x5 Parallel dekomposisi.
+Operasi Matriks 5x5 Parallel dekomposisi. /n
 ![image](https://user-images.githubusercontent.com/72824435/119491411-d91a7300-bd98-11eb-887b-c65bf2e75284.png)
 
 
